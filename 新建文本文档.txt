@@ -1,4 +1,4 @@
-
+¶¥¶¥¶¥¶¥¶¥
 
 SELECT u.user_name,
        app.application_short_name,
