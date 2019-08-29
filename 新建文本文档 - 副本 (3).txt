@@ -1,5 +1,5 @@
-顶顶顶顶顶
-水水水水水
+/* Formatted on 2018/3/14 23:25:51 (QP5 v5.256.13226.35538) */
+
 SELECT u.user_name,
        app.application_short_name,
        fat.application_name,
